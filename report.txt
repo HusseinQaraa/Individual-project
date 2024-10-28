@@ -1,0 +1,17 @@
+Teacher: Ms.Smith (Grade: 11)
+Students:
+- James (Email: james@student.com)
+- Hussein (Email: hussein@student.com)
+
+Teacher: Mr.Adams (Grade: 10)
+Students:
+- Kevin (Email: kevin@student.com)
+
+Teacher: Ms.Lin (Grade: 12)
+Students:
+- Vinu (Email: vinu@student.com)
+
+Teacher: Mr.Brown (Grade: 9)
+Students:
+- Leon (Email: leon@student.com)
+
